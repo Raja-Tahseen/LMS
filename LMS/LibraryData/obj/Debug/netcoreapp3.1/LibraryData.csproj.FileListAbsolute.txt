@@ -1,0 +1,13 @@
+E:\LearningASPNetCore\LMS\LMS\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.deps.json
+E:\LearningASPNetCore\LMS\LMS\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.runtimeconfig.json
+E:\LearningASPNetCore\LMS\LMS\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.runtimeconfig.dev.json
+E:\LearningASPNetCore\LMS\LMS\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.dll
+E:\LearningASPNetCore\LMS\LMS\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.pdb
+E:\LearningASPNetCore\LMS\LMS\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearningASPNetCore\LMS\LMS\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.AssemblyInfoInputs.cache
+E:\LearningASPNetCore\LMS\LMS\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.AssemblyInfo.cs
+E:\LearningASPNetCore\LMS\LMS\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.csproj.CoreCompileInputs.cache
+E:\LearningASPNetCore\LMS\LMS\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.dll
+E:\LearningASPNetCore\LMS\LMS\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.pdb
+E:\LearningASPNetCore\LMS\LMS\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.genruntimeconfig.cache
+E:\LearningASPNetCore\LMS\LMS\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.csproj.AssemblyReference.cache
