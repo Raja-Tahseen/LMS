@@ -8,6 +8,6 @@ namespace LibraryData.Models
     public class Video : LibraryAsset
     {
         [Required]
-        public string Directory{ get; set; }
+        public string Director{ get; set; }
     }
 }

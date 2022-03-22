@@ -302,7 +302,7 @@ namespace LibraryData.Migrations
                 {
                     b.HasBaseType("LibraryData.Models.LibraryAsset");
 
-                    b.Property<string>("Directory")
+                    b.Property<string>("Director")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

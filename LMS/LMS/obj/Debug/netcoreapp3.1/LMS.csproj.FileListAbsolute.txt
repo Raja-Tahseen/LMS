@@ -67,3 +67,6 @@ E:\LearningASPNetCore\LMS\LMS\LMS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netst
 E:\LearningASPNetCore\LMS\LMS\LMS\bin\Debug\netcoreapp3.1\LibraryData.dll
 E:\LearningASPNetCore\LMS\LMS\LMS\bin\Debug\netcoreapp3.1\LibraryData.pdb
 E:\LearningASPNetCore\LMS\LMS\LMS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\LearningASPNetCore\LMS\LMS\LMS\bin\Debug\netcoreapp3.1\LibraryServices.dll
+E:\LearningASPNetCore\LMS\LMS\LMS\bin\Debug\netcoreapp3.1\LibraryServices.pdb
+E:\LearningASPNetCore\LMS\LMS\LMS\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
